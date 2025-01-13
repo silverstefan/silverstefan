@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Stefan Silver!
 
-I'm a freelance web developer. I specialize in creating modern, scalable, and high-performing websites and applications.
+I'm a freelance web developer and I specialize in creating modern, scalable, and high-performing websites and applications.
 
 ## 💼 What I Do
 - **Problem-Solving Expertise:** I’m skilled at quickly researching and adapting to new tools and technologies to solve complex problems.
