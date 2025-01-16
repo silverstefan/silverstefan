@@ -50,6 +50,7 @@ I'm a freelance web developer and I specialize in creating modern, scalable, and
 ## 🌟 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/stefansilver)
 - [GitHub](https://github.com/stefansilver)
+- [Codepen](https://codepen.io/Stefan-Silver)
 
 ## ✨ Fun Fact
 I'm an avid road biker! I'm training for Vätternrundan 2025 with the goal of completing the 316 km ride in under 8.5 hours.
