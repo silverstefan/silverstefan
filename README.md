@@ -48,7 +48,7 @@ I'm a freelance web developer and I specialize in creating modern, scalable, and
 - **Website:** [stefansilver.se](https://stefansilver.se)
 
 ## 🌟 Let's Connect!
-- [LinkedIn](https://www.linkedin.com/in/stefansilver)
+- [LinkedIn](https://www.linkedin.com/in/stefan-silver)
 - [GitHub](https://github.com/stefansilver)
 - [Codepen](https://codepen.io/Stefan-Silver)
 
